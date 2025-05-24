@@ -2,10 +2,8 @@
 
 This repository features a modern landing page frontend concept for a renowned AI SaaS platform: [🍊Besimple AI](https://besimple.ai/).
 
-<video autoplay loop muted playsinline width="100%" style="border-radius: 8px;">
-  <source src="https://github.com/user-attachments/assets/5cc8961b-d2d0-41a6-ae71-3161d3b2d408" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+![image](https://github.com/user-attachments/assets/50dd979f-3832-4e74-91fe-0caba8510371)
+
 
 ## Key Highlights of Besimple
 
