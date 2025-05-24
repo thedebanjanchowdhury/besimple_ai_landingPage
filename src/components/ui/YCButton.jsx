@@ -2,7 +2,7 @@ import React from "react";
 
 const YCButton = () => {
   return (
-    <div className="w-full mt-12 flex justify-center items-center">
+    <div className="w-full mt-20 py-8 flex justify-center items-center">
       <div className="flex items-center gap-4 bg-[#f38e77] px-6 py-2 rounded-full shadow-lg">
         <p className="text-xl font-semibold">backed by</p>
         <img

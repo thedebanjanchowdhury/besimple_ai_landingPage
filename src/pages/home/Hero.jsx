@@ -5,8 +5,8 @@ import { FaArrowRight } from "react-icons/fa";
 const Hero = () => {
   return (
     <>
-      <div className="w-full mt-10 flex items-center justify-center md:block">
-        <h1 className="hero-text text-6xl text-center font-semibold leading-20">
+      <div className="w-full flex items-center justify-center md:block">
+        <h1 className="hero-text mt-10 text-6xl text-center font-semibold leading-20">
           Spin up your own data <br />
           <motion.div
             initial={{
@@ -25,7 +25,7 @@ const Hero = () => {
         </h1>
       </div>
 
-      <div className="mt-10 text-2xl text-center">
+      <div className="mt-10 text-2xl text-center opacity-60">
         Drop in your raw data and we instantly create a customized UI,
         annotation <br /> guidelines, a human-in-the-loop pipeline and AI judges
         to scale your insights.

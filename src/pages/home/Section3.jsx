@@ -24,7 +24,7 @@ const Section3 = () => {
         </div>
       </div>
       <div className="w-2/3 text-black flex flex-col justify-between gap-5">
-        <div className="w-full flex justify-between items-center gap-10">
+        <div className="w-full flex mt-12 justify-between items-center gap-10">
           <div className="w-80 hover:h-[420px] h-[400px] rounded-lg hover:rounded-2xl transition-all duration-150 bg-white flex flex-col items-center justify-around shadow-lg">
             <div className="flex flex-col justify-center items-center mt-10">
               <MdOutlineElectricBolt className="text-5xl shadow-md rounded-full bg-[#d75133] px-2" />

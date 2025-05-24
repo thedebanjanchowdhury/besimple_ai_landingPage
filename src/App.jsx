@@ -12,9 +12,8 @@ import Footer from "./components/ui/Footer";
 const App = () => {
   return (
     <>
-     
-      <div className="bg-[#fbf5f4] w-full min-h-screen scrollbar-hide">
       <ReactLenis root />
+      <div className="bg-[#fbf5f4] w-full min-h-screen scrollbar-hide">
         {/* Navbar */}
         <Navbar />
 
