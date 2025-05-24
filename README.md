@@ -4,11 +4,21 @@ This repository features a modern landing page frontend concept for a renowned A
 
 ![image](https://github.com/user-attachments/assets/08ed5392-5314-400d-aa58-5226a69efa61)
 
+<<<<<<< HEAD
 ## Key Highlights of Besimple ✨
 
 1. **Instant Annotation Platform**  
    Spin up a fully customizable data annotation platform in 60 seconds—no code, plugins, or setup delays.
 
+=======
+
+
+## Key Highlights of Besimple ✨
+
+1. **Instant Annotation Platform**  
+   Spin up a fully customizable data annotation platform in 60 seconds—no code, plugins, or setup delays.
+
+>>>>>>> 8992fbec2f46bde472d695935a8757cf2e22d9bc
 2. **Smart Annotation Interfaces**  
    Automatically generate tailored UIs and clear guidelines based on your raw data—text, audio, video, or LLM output.
 
@@ -23,7 +33,13 @@ This repository features a modern landing page frontend concept for a renowned A
 
 ## Tech Stack 🖥️
 
+<<<<<<< HEAD
 - **React** – Core UI library for building the frontend
 - **Framer Motion** – For smooth and powerful animations
 - **React Router DOM** – Simple and declarative routing
+=======
+- **React** – Core UI library for building the frontend  
+- **Framer Motion** – For smooth and powerful animations  
+- **React Router DOM** – Simple and declarative routing  
+>>>>>>> 8992fbec2f46bde472d695935a8757cf2e22d9bc
 - **Lenis** – Smooth, performant scrolling experience
